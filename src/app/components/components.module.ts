@@ -18,4 +18,4 @@ import { ChartsModule } from 'ng2-charts';
   ],
   providers: []
 })
-export class ComponentModule {}
+export class ComponentsModule {}
